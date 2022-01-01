@@ -1,6 +1,6 @@
 ---
 title: Resume
-layout: resume
+layout: cv
 actions:
   - label: "Download as PDF"
     icon: pdf
