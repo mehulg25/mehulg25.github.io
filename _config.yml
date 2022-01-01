@@ -49,8 +49,8 @@ feed:
   path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 10
-paginate_path: /page:num/
+paginate: 4
+paginate_path: blog/page:num/
 
 # Exclude from processing.
 exclude:
@@ -76,6 +76,14 @@ exclude:
   - /docs # ignore Basically Basic sample site
   - /example # ignore Basically Basic dev site
 
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
+  daily:
+    output: true
+    permalink: /:collection/:path/
+
 # Front Matter Defaults
 defaults:
   # _posts
@@ -85,3 +93,19 @@ defaults:
     values:
       layout: post
       read_time: true
+  # _projects
+  - scope:
+      path: "_projects"
+      type: projects
+    values:
+      layout: post
+      read_time: true
+    # _daily
+  - scope:
+      path: "_daily"
+      type: daily
+    values:
+      layout: post
+      read_time: true
+
+# google_analytics:
