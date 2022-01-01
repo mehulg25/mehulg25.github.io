@@ -1,0 +1,184 @@
+{
+    "basics": {
+      "name": "Mehul Gupta",
+      "label": "In Data I Trust.",
+      "picture": "",
+      "email": "mehulg25@gmail.com",
+      "phone": "(240) 491-1595",
+      "website": "https://mehulg25.github.io",
+      "summary": "As a person who understands both the technology and the business, I can help your team leverage the power of data by creating insightful stories that help drive business decisions. ",
+      "location": {
+        "address": "3417 Tulane Drive",
+        "postalCode": "MD 20783",
+        "city": "Hyattsville",
+        "countryCode": "US",
+        "region": "Maryland"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "mehulg25",
+          "url": "https://www.linkedin.com/in/mehulg25/"
+        },
+        {
+          "network": "Twitter",
+          "username": "mehulg25",
+          "url": "https://twitter.com/mehulg25"
+        },
+        {
+            "network": "Github",
+            "username": "mehulg25",
+            "url": "https://github.com/mehulg25"
+          }
+      ]
+    },
+    "work": [
+      {
+        "company": "Humit",
+        "position": "Business Analyst Intern",
+        "website": "https://www.humit.app",
+        "startDate": "May 2021",
+        "endDate": "July 2021",
+        "summary": "humit is a social media platform for bite-sized audio sharing and discovery.",
+        "highlights": [
+          "Developed and led implementation of product roadmap while embracing Agile-DevOps",
+          "Consulted on automation of day-to-day manual processes to enhance employee turnaround time by 60%",
+          "Analyzed methods to create efficient database schemas through UML diagrams and ERDs on Lucid Chart and reduced SQL query time by 20%",
+          "Documented requirements, researched growth strategies, identified user pain points, recommended new product features, and analyzed feasibility increasing user satisfaction rate by 80%"
+        ]
+      },
+      {
+        "company": "ColoredCow Consulting Pvt. Ltd.",
+        "position": "Full Stack Development Intern",
+        "website": "https://coloredcow.com",
+        "startDate": "January 2021",
+        "endDate": "April 2021",
+        "summary": "ColoredCow is a business consultancy firm.",
+        "highlights": [
+          "Developed an online platform using JavaScript (ReactJS), PHP, HTML, and CSS from designed mockups using Agile",
+          "Designed database architecture using MySQL to incorporate data of 40000 users, providing them access to online education",
+          "Coordinated with multiple stakeholders and documented requirements to increase platform engagement by 40%",
+          "Generated various reports for C-level executives using survey data in Excel"
+        ]
+
+      }
+    ],
+    "volunteer": [
+      {
+        "organization": "Steve's Meat Market",
+        "position": "Assistant",
+        "website": "",
+        "startDate": "1995-01-01",
+        "endDate": "1997-03-20",
+        "summary": "Ground up some sort of grasshopper mash for fishing.",
+        "highlights": [
+          "Awarded a 'Helium Biscuit'"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Robert H. Smith School of Business, University of Maryland",
+        "area": "Information Systems",
+        "studyType": "Masters",
+        "startDate": "September 2021",
+        "endDate": "December 2022",
+        "gpa": "4.0",
+        "courses": [
+          "Data Processing and Analysis using Python",
+          "Database Management Systems",
+          "Data Models and Decisions",
+          "Managing Digital Business Markets",
+          "Digital Transformation in Business"
+        ]
+      },
+      {
+        "institution": "Manipal University Jaipur",
+        "area": "Computers and Communications",
+        "studyType": "Bachelors",
+        "startDate": "July 2017",
+        "endDate": "May 2021",
+        "gpa": "3.1",
+        "courses": [
+          "Machine Learning",
+          "Database Management",
+          "Web Services",
+          "Java",
+          "Organization and Management"
+        ]
+      }
+    ],
+    // "awards": [
+    //   {
+    //     "title": "Warble Pioneer Award",
+    //     "date": "2001-11-01",
+    //     "awarder": "Levi Goulet",
+    //     "summary": "Have you seen my turtle?"
+    //   }
+    // ],
+    // "publications": [
+    //   {
+    //     "name": "Radio Julius",
+    //     "publisher": "Tanyo Lubbock",
+    //     "releaseDate": "2014-10-01",
+    //     "website": "https://en.rhy.es",
+    //     "summary": "Capitalize on low hanging fruit to identify a ballpark value added activity to beta test."
+    //   }
+    // ],
+    "skills": [
+      {
+        "name": "Tools",
+        "level": "Master",
+        "keywords": [
+          "Jupyter Notebook", 
+          "Google Analytics",
+          "Tableau", 
+          "Anaconda",
+          "MS Office Suite", 
+          "MySQL", 
+          "Lucid Chart", 
+          "Snowflake", 
+          "Salesforce", 
+          "AWS", 
+          "GitHub", 
+          "Kaggle", 
+          "Postman", 
+          "Jira"
+        ]
+      },
+      {
+        "name": "Programming Languages",
+        "level": "Master",
+        "keywords": [
+          "Python (NumPy, Pandas, Scipy, Scikit-Learn, MatPlotLib, Seaborn, Plotly)",
+          "R",
+          "HTML5",
+          "CSS3"
+        ]
+      },
+      {
+        "name": "Operating Systems",
+        "level": "Master",
+        "keywords": [
+          "Windows",
+          "Linux",
+          "Mac OS X"
+        ]
+      }
+    ],
+    "interests": [
+      {
+        "name": "The Information Superhighway",
+        "keywords": [
+          "Ferrets",
+          "Unicorns"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "name": " Nannette Nananacci",
+        "reference": "It is my pleasure to recommend Dugan Nash, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      }
+    ]
+  }
