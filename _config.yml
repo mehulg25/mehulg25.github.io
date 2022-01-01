@@ -17,7 +17,7 @@ remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 lang: en-US
 title: Meh-Talk-Culous
 email: mehulg25@gmail.com
-description:
+description: Hello World! I'm Mehul
 baseurl:  # the optional subpath of your site, e.g. "/blog"
 url: https://mehulg25.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
