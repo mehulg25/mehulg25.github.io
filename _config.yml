@@ -23,10 +23,11 @@ url: https://mehulg25.github.io # the base hostname & protocol for your site e.g
 author:
   name: Mehul Gupta
   twitter: mehulg25
-  picture: # /assets/images/Vcasual_bg.png
+  picture: /assets/images/gargi.JPG
 twitter_username: mehulg25
 github_username: mehulg25
-logo: "/assets/images/mono.jpg" # path of site logo, e.g. "/assets/images/logo.png"
+# discord_server: 
+logo: "/assets/images/dubai_hoe.JPG" # path of site logo, e.g. "/assets/images/logo.png"
 search: true # true, false (default)
 search_full_content: true # true, false (default)
 search_provider: lunr # lunr (default), algolia
