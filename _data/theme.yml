@@ -23,6 +23,7 @@ t:
   of: "of"
   min_read: "min read"
   present: "Present"
+
   cv_awards: "Awards"
   cv_summary_contact: "Contact"
   cv_summary_contact_email: "Email"
@@ -40,9 +41,15 @@ t:
   cv_work: "Work"
 
 # Google Fonts
+# google_fonts:
+#   - name: "Fira Sans"
+#     weights: "400,400i,600,600i"
+
 google_fonts:
-  - name: "Fira Sans"
-    weights: "400,400i,600,600i"
+  - name: "Jost"
+    weights: "400"
+  - name: "Arimo"
+    weights: "400"
 
 # Link to specific internal pages in the navigation.
 # Create a custom list to override the default setting of including links to all
@@ -50,4 +57,7 @@ google_fonts:
 
 navigation_pages:
   - about.md
+  - blog.md
   - cv.md
+  - projects.md
+  - music.md
