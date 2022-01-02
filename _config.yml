@@ -27,7 +27,7 @@ author:
 twitter_username: mehulg25
 github_username: mehulg25
 # discord_server: 
-logo: "/assets/images/100x100.png" # path of site logo, e.g. "/assets/images/logo.png"
+logo: "/assets/images/dubai_hoe_100x100.png" # path of site logo, e.g. "/assets/images/logo.png"
 search: true # true, false (default)
 search_full_content: true # true, false (default)
 search_provider: lunr # lunr (default), algolia
