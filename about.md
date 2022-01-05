@@ -6,7 +6,7 @@ permaline: /about
 
 Hi! I'm Mehul, a Master's student at Robert H. Smith School of Business, University of Maryland. I have a deep interest in data science and I aim to bridge the gap between technology and business. 
 
-I completed my undergraduate degree from Manipal University in Computers and Communications. During this time, I found my passion for creating value at the intersection of technology, business, and music. I managed to work with Sofar Sounds and The Indian Music Diaries. This was an amazing experience as I got to work with my favourite artists like The Local Train, Aswekeepsearching, and Warren Mendonsa to name a few.
+I completed my undergraduate degree from Manipal University in Computers and Communications. During this time, I found that my passion lies in creating value at the intersection of technology, business, and music. I managed to work with Humit, Sofar Sounds, and The Indian Music Diaries. This was an amazing experience as I got to collaborate with my favourite artists like Steven Wilson, The Local Train, Aswekeepsearching, Tanmaya Bhatgnagar, Parvaaz, and Warren Mendonsa to name a few. 
 
 Heads Up:
 - I love discussing __disruptive innovations__.
