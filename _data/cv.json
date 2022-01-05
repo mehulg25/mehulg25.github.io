@@ -32,6 +32,39 @@
           }
       ]
     },
+    "education": [
+      {
+        "institution": "Robert H. Smith School of Business, University of Maryland",
+        "area": "Information Systems",
+        "studyType": "Masters",
+        "startDate": "September 2021",
+        "endDate": "December 2022",
+        "gpa": "3.7",
+        "courses": [
+          "Data Processing and Analysis using Python",
+          "Database Management Systems",
+          "Data Models and Decisions",
+          "Managing Digital Business Markets",
+          "Digital Transformation in Business",
+          "Project Management"
+        ]
+      },
+      {
+        "institution": "Manipal University Jaipur",
+        "area": "Computers and Communications",
+        "studyType": "Bachelors",
+        "startDate": "July 2017",
+        "endDate": "May 2021",
+        "gpa": "3.2",
+        "courses": [
+          "Machine Learning",
+          "Database Management",
+          "Web Services",
+          "Java",
+          "Organization and Management"
+        ]
+      }
+    ],
     "work": [
       {
         "company": "Humit",
@@ -90,39 +123,6 @@
           "Assisted in curation of various events in Jaipur as a part of their global movement ",
           "Independently undertook organisation of events, logistic handling, hospitality and ensured participation from candidates across the country",
           "Executed online gigs to ensure a consistent event cycle even amidst the lockdown"
-        ]
-      }
-    ],
-    "education": [
-      {
-        "institution": "Robert H. Smith School of Business, University of Maryland",
-        "area": "Information Systems",
-        "studyType": "Masters",
-        "startDate": "September 2021",
-        "endDate": "December 2022",
-        "gpa": "3.7",
-        "courses": [
-          "Data Processing and Analysis using Python",
-          "Database Management Systems",
-          "Data Models and Decisions",
-          "Managing Digital Business Markets",
-          "Digital Transformation in Business",
-          "Project Management"
-        ]
-      },
-      {
-        "institution": "Manipal University Jaipur",
-        "area": "Computers and Communications",
-        "studyType": "Bachelors",
-        "startDate": "July 2017",
-        "endDate": "May 2021",
-        "gpa": "3.2",
-        "courses": [
-          "Machine Learning",
-          "Database Management",
-          "Web Services",
-          "Java",
-          "Organization and Management"
         ]
       }
     ],
