@@ -65,14 +65,31 @@
     ],
     "volunteer": [
       {
-        "organization": "Steve's Meat Market",
-        "position": "Assistant",
-        "website": "",
-        "startDate": "1995-01-01",
-        "endDate": "1997-03-20",
-        "summary": "Ground up some sort of grasshopper mash for fishing.",
+        "organization": "The Indian Music Diaries",
+        "position": "Community Manager",
+        "website": "https://theindianmusicdiaries.com",
+        "startDate": "2020-07-01",
+        "endDate": "2021-06-30",
+        "summary": "Music Editorial",
         "highlights": [
-          "Awarded a 'Helium Biscuit'"
+          "Maintained liaisons with artists in the Indian Music Industry",
+          "Organised workshops on topics revolving around music production, music release, building press-kits, etc.",
+          "Curated artists and genre specific playlists under TIMD",
+          "Introduced and launched a Discord Server for TIMD, hosted several series, music sessions on the same and ensured engagement of 1000+ members within a month"
+        ]
+      },
+      {
+        "organization": "Sofar Sounds",
+        "position": "Artist Liaison",
+        "website": "https://www.sofarsounds.com",
+        "startDate": "2020-01-01",
+        "endDate": "2020-06-30",
+        "summary": "Event Management",
+        "highlights": [
+          "Identified and managed talent for Sofar Sounds",
+          "Assisted in curation of various events in Jaipur as a part of their global movement ",
+          "Independently undertook organisation of events, logistic handling, hospitality and ensured participation from candidates across the country",
+          "Executed online gigs to ensure a consistent event cycle even amidst the lockdown"
         ]
       }
     ],
@@ -83,13 +100,14 @@
         "studyType": "Masters",
         "startDate": "September 2021",
         "endDate": "December 2022",
-        "gpa": "4.0",
+        "gpa": "3.7",
         "courses": [
           "Data Processing and Analysis using Python",
           "Database Management Systems",
           "Data Models and Decisions",
           "Managing Digital Business Markets",
-          "Digital Transformation in Business"
+          "Digital Transformation in Business",
+          "Project Management"
         ]
       },
       {
@@ -98,7 +116,7 @@
         "studyType": "Bachelors",
         "startDate": "July 2017",
         "endDate": "May 2021",
-        "gpa": "3.1",
+        "gpa": "3.2",
         "courses": [
           "Machine Learning",
           "Database Management",
@@ -119,6 +137,7 @@
           "Anaconda",
           "MS Office Suite", 
           "MySQL", 
+          "SQL Server Management Studio",
           "Lucid Chart", 
           "Snowflake", 
           "Salesforce", 
@@ -133,7 +152,7 @@
         "name": "Programming Languages",
         "level": "Master",
         "keywords": [
-          "Python (NumPy, Pandas, Scipy, Scikit-Learn, MatPlotLib, Seaborn, Plotly)",
+          "Python (numpy, pandas, BeautifulSoup, nltk, scikit, seaborn, matplotlib, plotly, TensorFlow)",
           "R",
           "HTML5",
           "CSS3"
@@ -149,19 +168,10 @@
         ]
       }
     ],
-    "interests": [
-      {
-        "name": "The Information Superhighway",
-        "keywords": [
-          "Ferrets",
-          "Unicorns"
-        ]
-      }
-    ],
     "references": [
       {
-        "name": " Nannette Nananacci",
-        "reference": "It is my pleasure to recommend Dugan Nash, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+        "name": "Akshay Kapoor",
+        "reference": "It is my pleasure to recommend Mehul Gupta. His ability to work independently and sincerely is a trait I have valued while he has worked with us. Mehul has also shown exemplary capacity to identify potential crisis situations and manage them effectively. Mehul was found to be sincere and enterprising with a dedication to get the task completed. In a small amount of time, Mehul became an active contributor to the community development with an ability to work independently and creatively."
       }
     ]
   }
