@@ -18,21 +18,21 @@ I was curious to know how users are actually consuming digital products in this 
 
 For this project, I decided to work on the Spotify dataset. The dataset included 1 million playlists with their respective songs. However, for the scope of this project, I decided to work only on the first 1,000 playlists.
 
-I started off by making a correlation matrix to find some relation between the track metadata, i.e., the song attributes like acousticness, valence, loudness, and popularity to name a few. 
+I started off by making a correlation matrix to see if there is any relation between the track metadata, i.e., the song attributes like acousticness, valence, loudness, and popularity to name a few. 
 ![plot](/assets/images/projects/corr.png)
+As we can see, there's only one strong correlation:
+- Loudness VS. Energy
+However, not a single attribute is highly correlated with popularity of the track. 
 
+I asked myself, if not an attribute, then what exactly differentiates a popular song from other songs? Is there a recipe to make songs? 
+To answer this question, I filtered out 5 most and least popular artists. I then compared the attirbutes of the songs by these artists using a radar chart. 
+![plot](/assets/images/projects/radar.png)
+Now we know the things that we should keep in mind before composing a song. Popular songs tend to have the following attributes:
+- High Valence
+  - Valence is nothing but a measure for happiness
+- High Danceability
+- Less Speechiness
+- Less Acousticness
 
-From audio cassettes to vinyl disks, from ipods to itunes, as media products shift from physical goods to bits, the way people explore and perceive new media has also changed through the years. The amount of data people consume every day makes it a necessity for digital companies to fine tune their selling for each user in order to create a hyper personalised environment for users to be more engaged.
-
-The purpose of this project was to see how any digital platform can leverage user data and create a hyper personalized environment. 
-
-For this project, I have built a recommendation system which recommends 20 songs that a user might add to their playlist based on the first song added by the user. This recommendation system can be leveraged by platforms to further refine the precision of their recommendations to users.
-
-In order to achieve this, I tried to analyze the data in order to find trends in user listening habits. These analysis not only helped me to optimize my recommendation system but can help all the sides of the platform involved in the following ways:
-
-Users : To get personalized recommendations based on their listening history
-Artists : To include particular attributes to make their song a hit
-Streaming Platforms : To promote in-house curated playlists based on genres people like
-Record Labels and Music Distributors : To sign contracts with artists who are leading the music industry
 
 ---
