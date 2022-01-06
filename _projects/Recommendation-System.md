@@ -19,7 +19,8 @@ I was curious to know how users are actually consuming digital products in this 
 For this project, I decided to work on the Spotify dataset. The dataset included 1 million playlists with their respective songs. However, for the scope of this project, I decided to work only on the first 1,000 playlists.
 
 I started off by making a correlation matrix to find some relation between the track metadata, i.e., the song attributes like acousticness, valence, loudness, and popularity to name a few. 
-![correlation-matrix](assets/images/projects/corr.png)
+<img src="assets/images/projects/corr.png" alt="correlation-matrix" />
+
 
 
 ---
