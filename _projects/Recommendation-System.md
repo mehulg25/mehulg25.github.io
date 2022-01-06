@@ -19,7 +19,7 @@ I was curious to know how users are actually consuming digital products in this 
 For this project, I decided to work on the Spotify dataset. The dataset included 1 million playlists with their respective songs. However, for the scope of this project, I decided to work only on the first 1,000 playlists.
 
 I started off by making a correlation matrix to find some relation between the track metadata, i.e., the song attributes like acousticness, valence, loudness, and popularity to name a few. 
-![plot](/assets/images/projects/recommendation-3.png)
+![plot](/assets/images/projects/corr.png)
 
 
 From audio cassettes to vinyl disks, from ipods to itunes, as media products shift from physical goods to bits, the way people explore and perceive new media has also changed through the years. The amount of data people consume every day makes it a necessity for digital companies to fine tune their selling for each user in order to create a hyper personalised environment for users to be more engaged.
