@@ -4,6 +4,9 @@ layout: post
 sub_title: "Predictive Analysis"
 excerpt: "Predictive Analysis"
 
+image: 
+  path: assets/images/recommendation.jpeg
+  thumbnail: assets/images/recommendation.jpeg
 actions:
   - label: "GitHub"
     icon: github
