@@ -5,8 +5,8 @@ sub_title: "Predictive Analysis"
 excerpt: "Predictive Analysis"
 
 image: 
-  path: assets/images/ai-personalized-product-recommendations.png
-  thumbnail: assets/images/ai-personalized-product-recommendations.png
+  path: assets/images/recommendation3.png
+  thumbnail: assets/images/recommendation3.png
 actions:
   - label: "GitHub"
     icon: github
