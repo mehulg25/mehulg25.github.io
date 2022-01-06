@@ -20,9 +20,11 @@ For this project, I decided to work on the Spotify dataset. The dataset included
 
 I started off by making a correlation matrix to find some relation between the track metadata, i.e., the song attributes like acousticness, valence, loudness, and popularity to name a few. 
 <img src="assets/images/projects/corr.png" alt="correlation-matrix" />
+---
 
-
-
+image: 
+  path: assets/images/projects/corr.png
+  
 ---
 
 From audio cassettes to vinyl disks, from ipods to itunes, as media products shift from physical goods to bits, the way people explore and perceive new media has also changed through the years. The amount of data people consume every day makes it a necessity for digital companies to fine tune their selling for each user in order to create a hyper personalised environment for users to be more engaged.
