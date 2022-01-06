@@ -13,13 +13,20 @@ actions:
     url: "https://github.com/mehulg25/Recommendation-System"
 
 ---
-From audio cassettes to vinyl disks, from ipods to itunes, as media products shift from physical goods to bits, the way people explore and perceive new media has also changed through the years.
+I was listening to music when I came across a bunch of in-house curated playlists. I noticed how those playlists were curated not based on the genres but based on moods, actions, and what not. 
+I was curious to know how users are actually consuming digital products in this age and so I decided to build my own recommendation system. But before building a recommendation system, I wanted to dig deeper into the data in order to find some trends in user listening habits. 
 
-The amount of data people consume every day makes it a necessity for digital companies to fine tune their selling for each user in order to create a hyper personalised environment for users to be more engaged.
+For this project, I decided to work on the Spotify dataset. The dataset included 1 million playlists with their respective songs. However, for the scope of this project, I decided to work only on the first 1,000 playlists.
 
-Spotify, an online music streaming platform, puts user personalization at the forefront through recommended playlists. Rather than just listening to a full length album, users are able to control their experience by curating playlists that can reflect their emotions, activities, and memories. Spotify can enhance this personalization experience by assisting users in their music discovery. Discovering new tracks are made easier by offering recommendations relevant to the user.
+I started off by making a correlation matrix to find some relation between the track metadata, i.e., the song attributes like acousticness, valence, loudness, and popularity to name a few. 
+![correlation-matrix](assets/images/projects/spotify-corr)
 
-What sets Spotify apart from other music streaming platforms like Amazon Music, Pandora, Apple Music, and YT Music is precisely the spot on recommendations that it offers users for their playlists. Through this project, we aim to see how any platform can improve its user personalization and its implications for the future of targetted marketing.
+
+---
+
+From audio cassettes to vinyl disks, from ipods to itunes, as media products shift from physical goods to bits, the way people explore and perceive new media has also changed through the years. The amount of data people consume every day makes it a necessity for digital companies to fine tune their selling for each user in order to create a hyper personalised environment for users to be more engaged.
+
+The purpose of this project was to see how any digital platform can leverage user data and create a hyper personalized environment. 
 
 For this project, I have built a recommendation system which recommends 20 songs that a user might add to their playlist based on the first song added by the user. This recommendation system can be leveraged by platforms to further refine the precision of their recommendations to users.
 
