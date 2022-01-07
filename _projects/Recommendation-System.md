@@ -14,9 +14,9 @@ actions:
 
 ---
 I was listening to music when I came across a bunch of in-house curated playlists. I noticed how those playlists were curated not based on the genres but based on moods, actions, and what not. 
-I was curious to know how users are actually consuming digital products in this age and so I decided to build my own recommendation system. But before building a recommendation system, I wanted to dig deeper into the data in order to find some trends in user listening habits. 
+I was curious to know how users are actually consuming digital products in this age and so I decided to build my own recommendation system. But before building a recommendation system, I wanted to dig deeper into the data in order to find some trends in user listening habits. <br>
 ![plot](/assets/images/projects/spot-meme.jpg)
-***
+---
 For this project, I decided to work on the Spotify dataset. The dataset included 1 million playlists with their respective songs. However, for the scope of this project, I decided to work only on the first 1,000 playlists.
 
 I started off by making a correlation matrix to see if there is any relation between the track metadata, i.e., the song attributes like acousticness, valence, loudness, and popularity to name a few. 
@@ -45,7 +45,7 @@ To wrap it up, from audio cassettes to vinyl disks, from ipods to itunes, as med
 
 In future, I wish to explore more on recommending songs based purely on the playlists name. 
 
-***
+---
 
 I would also like to thank Aarti Yelne, Danny Rivas, Nishit Chaudhari, and Saloni Shah for their help and insights.
 
