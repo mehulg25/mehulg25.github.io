@@ -11,7 +11,7 @@ actions:
   - label: "GitHub"
     icon: github
     url: "https://github.com/mehulg25/Recommendation-System"
-  - label: "Report"
+  - label: "Download Report"
     icon: pdf
     url: "/pdf-asset/FinalReport.html"
 ---
