@@ -11,7 +11,9 @@ actions:
   - label: "GitHub"
     icon: github
     url: "https://github.com/mehulg25/Recommendation-System"
-
+  - label: "Report"
+    icon: pdf
+    url: "/pdf-asset/FinalReport.html"
 ---
 I was listening to music when I came across a bunch of in-house curated playlists. I noticed how those playlists were curated not based on the genres but based on moods, actions, and what not. 
 I was curious to know how users are actually consuming digital products in this age and so I decided to build my own recommendation system. But before building a recommendation system, I wanted to dig deeper into the data in order to find some trends in user listening habits.
