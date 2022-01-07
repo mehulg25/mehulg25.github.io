@@ -56,7 +56,7 @@ In the future, I would like to further this research and explore more about song
 
 ---
 
-To test this project, feel free to fork my repo on github. You can also [download](/pdf-asset/FinalReport.html) the full HTML report for a detailed analysis.
+To test this project, feel free to fork my repo on [github](https://github.com/mehulg25/Recommendation-System). You can also [download](/pdf-asset/FinalReport.html) the full HTML report for a detailed analysis.
 
 I would like to thank Aarti Yelne, Danny Rivas, Nishit Chaudhari, and Saloni Shah for their help and insights.
 
