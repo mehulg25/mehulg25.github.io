@@ -32,7 +32,6 @@ After getting the data in place, I made an ER diagram using Lucidchart. This ER 
 
 ![ER-Diagram](/assets/images/projects/ERD.png)
 
-
 The next task for me was to create tables and insert respective data. I saved these SQL queries in a DDL file.
 After inserting data into the tables, I made a DML file to create materialized views using complex sql queries in order to answer the following questions of interest:
 - Which is the highest rated Starbucks branch in College Park area
