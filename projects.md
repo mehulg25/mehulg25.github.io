@@ -1,6 +1,6 @@
 ---
 title: Projects
-sub_title: "You can find some of my projects here:"
+sub_title: ""
 layout: collection
 permalink: /projects/
 collection: projects
