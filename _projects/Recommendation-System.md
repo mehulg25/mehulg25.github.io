@@ -55,7 +55,8 @@ In future, I wish to explore more on recommending songs based purely on the name
 
 ---
 
-You can test my project on github and can download the report for a detailed analysis.
+To test this project, feel free to fork my repo on github. You can also download the full HTML report for a detailed analysis.
+
 I would like to thank Aarti Yelne, Danny Rivas, Nishit Chaudhari, and Saloni Shah for their help and insights.
 
 
