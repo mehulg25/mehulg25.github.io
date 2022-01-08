@@ -28,12 +28,12 @@ For this project, I started off by scrapping the data from the following website
 
 The data consisted of datapoints like customer name, review, feedback, check-in time, business name, business address, etc. 
 
-After getting the data in place, I made an ER diagram using Lucidchart. This ER diagram further helped me to interrelate things of my interest. I also defined certain business rules, made relational model, and implemented normalization.
+After getting the data in place, I made an ER diagram using [Lucidchart](https://www.lucidchart.com/pages/). This ER diagram further helped me to interrelate things of my interest. I also defined certain business rules, made relational model, and implemented normalization.
 
 ![ER-Diagram](/assets/images/projects/ERD.png)
 
 The next task for me was to create tables and insert respective data. I saved these SQL queries in a DDL file.
-After inserting data into the tables, I made a DML file to create materialized views using complex sql queries in order to answer the following questions of interest:
+After inserting data into the tables, I made a DML file to create materialized views using complex SQL queries in order to answer the following questions of interest:
 - Which is the highest rated Starbucks branch in College Park area
 - What sets the highest rated branch apart from the rest
 - How can we improve the lowest rated branch
