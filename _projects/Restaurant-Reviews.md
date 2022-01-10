@@ -39,3 +39,11 @@ After inserting data into the tables, I made a DML file to create materialized v
 - How can we improve the lowest rated branch
 - How can we improve staff allocation strategy
 
+After getting answers to the above mentioned questions, I decided to do a Sentiment Analysis of customer reviews to better understand customer opinions. Moreover, I made a tableau dashboard in order to visualize the results and compare the branches easily. 
+
+![ER-Diagram](/assets/images/projects/dashboard.png)
+
+I believe that this project can be used by any business in order to better understand their customers and improve their sales.
+
+***
+
