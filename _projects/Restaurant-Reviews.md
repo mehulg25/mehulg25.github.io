@@ -1,8 +1,8 @@
 ---
 title: "Restaurant Reviews"
 layout: post
-sub_title: "Database Management System and Sentiment Analysis"
-excerpt: "Database Management System and Sentiment Analysis"
+sub_title: "Database Management and Sentiment Analysis"
+excerpt: "Database Management and Sentiment Analysis"
 
 image: 
   path: assets/images/projects/database-cover.png
