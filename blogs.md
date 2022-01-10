@@ -6,4 +6,3 @@ permalink: /blogs/
 collection: blogs
 entries_layout: grid
 ---
-Hello!
