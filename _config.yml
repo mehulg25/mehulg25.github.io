@@ -80,15 +80,15 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  daily:
+  blogs:
     output: true
     permalink: /:collection/:path/
 
 # Front Matter Defaults
 defaults:
-  # _posts
+  # _blogs
   - scope:
-      path: "_posts"
+      path: "_blogs"
       type: posts
     values:
       layout: post
@@ -100,12 +100,6 @@ defaults:
     values:
       layout: post
       read_time: true
-    # _daily
-  - scope:
-      path: "_daily"
-      type: daily
-    values:
-      layout: post
-      read_time: true
+
 
 google_analytics: G-QE3XJ3BXEM
