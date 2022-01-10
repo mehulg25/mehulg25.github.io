@@ -1,10 +1,10 @@
 ---
 title: "Meh-Talk-Culous"
 sub_title: "Out Soon."
-layout: posts
+layout: collection
 permalink: /blog/
 collection: blogs
-paginate: true
+# paginate: true
 ---
 
 <!-- 
