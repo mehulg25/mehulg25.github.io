@@ -11,9 +11,9 @@ actions:
   - label: "GitHub"
     icon: github
     url: "https://github.com/mehulg25/Restaurant-Reviews"
-  - label: "Download Report"
+  - label: "Download Presentation"
     icon: pdf
-    url: ""
+    url: "/pdf-asset/DBMS_Presentation.pptx"
 ---
 To cope with all the sleepless nights in pursuit of finishing my gazillion submissions, I rely on caffeine. NO, it doesn't help one bit. I think its all in my head. But atleast all my trips to Starbucks gave me the idea to pursue this project. The aim for this project is to analyze the reviews and tips given by customers to evaluate Starbucks Coffeehouses in and around College Park area.
 
@@ -47,3 +47,4 @@ I believe that this project can be used by any business in order to better under
 
 ***
 
+To test this project, feel free to fork my repo on [github](https://github.com/mehulg25/Restaurant-Reviews). You can also [download](/pdf-asset/DBMS_Presentation.pptx) the presentation for a better understanding.
