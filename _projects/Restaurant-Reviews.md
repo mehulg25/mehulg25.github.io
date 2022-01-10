@@ -6,7 +6,7 @@ excerpt: "Database Management and Sentiment Analysis"
 
 image: 
   path: assets/images/projects/database-2.jpg
-  thumbnail: assets/images/projects/database-2.jpg
+  thumbnail: assets/images/projects/database-thumbnail.jpg
 actions:
   - label: "GitHub"
     icon: github
