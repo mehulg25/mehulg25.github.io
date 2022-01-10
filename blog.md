@@ -4,7 +4,7 @@ sub_title: "Out Soon."
 layout: collection
 permalink: /blog/
 collection: blogs
-# paginate: true
+entries_layout: grid
 ---
 
 <!-- 
