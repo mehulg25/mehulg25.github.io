@@ -2,7 +2,8 @@
 title: "Meh-Talk-Culous"
 sub_title: "Out Soon."
 layout: posts
-permaline: /blog
+permalink: /blog/
+collection: blog
 paginate: true
 ---
 
