@@ -80,15 +80,11 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  blogs:
-    output: true
-    permalink: /:collection/:path/
-
 # Front Matter Defaults
 defaults:
-  # _blogs
+  # _posts
   - scope:
-      path: "_blogs"
+      path: "_posts"
       type: posts
     values:
       layout: post
