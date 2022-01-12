@@ -16,11 +16,7 @@ actions:
     url: "/pdf-asset/DBMS_Presentation.pptx"
 ---
 To cope with all the sleepless nights in pursuit of finishing my gazillion submissions, I rely on caffeine. 
-NO, it doesn't help one bit!
-I think it's all in my head
-But atleast all my Starbucks trips gave me the idea to take up this project
-
-The aim of this project is to analyze the reviews and tips given by customers to evaluate Starbucks Coffeehouses in and around College Park area
+NO, it doesn't help one bit! I think it's all in my head. But atleast all my Starbucks trips gave me the idea to take up this project. The aim of this project is to analyze the reviews and tips given by customers to evaluate __Starbucks Coffeehouses__ in and around College Park area.
 
 ![starbucks-image](/assets/images/projects/starbucks.jpg)
 
@@ -31,24 +27,25 @@ For this project, I started off by scrapping the data from the following website
 - Google Reviews
 - FourSquare
 
-The data consisted of datapoints like customer name, review, feedback, check-in time, business name, business address, etc. 
+The data consisted of datapoints such as customer name, review, feedback, check-in time, business name, business address, etc. 
 
-After getting the data in place, I made an ER diagram using [Lucidchart](https://www.lucidchart.com/pages/). This ER diagram further helped me to interrelate things of my interest. I also defined certain business rules, made relational model, and implemented normalization.
+After getting the data in place, I made an __ER diagram__ using [Lucidchart](https://www.lucidchart.com/pages/). This ER diagram further helped me to correlate things of my interest. I also defined certain __business rules__, made a __relational model__, and implemented __normalization__.
 
 ![ER-Diagram](/assets/images/projects/ERD.png)
 
-The next task for me was to create tables and insert respective data. I saved these SQL queries in a DDL file.
-After inserting data into the tables, I made a DML file to create materialized views using complex SQL queries in order to answer the following questions of interest:
-- Which is the highest rated Starbucks branch in College Park area
-- What sets the highest rated branch apart from the rest
-- How can we improve the lowest rated branch
-- How can we improve staff allocation strategy
+The next task was to create tables and insert corresponding data. I saved these SQL queries in a __DDL__ file. After inserting data into the tables, I made a __DML__ file to create __materialized views__ using complex SQL queries in order to answer the following questions of interest:
+- Which is the highest rated Starbucks branch in College Park area?
+- What sets the highest rated branch apart from the rest?
+- How can we improve the lowest rated branch?
+- How can we improve staff allocation strategy?
 
-After getting answers to the above mentioned questions, I decided to do a Sentiment Analysis of customer reviews to better understand customer opinions. Moreover, I made a tableau dashboard in order to visualize the results and compare the branches easily. 
+After getting answers to the above mentioned questions, I decided to do a __Sentiment Analysis__ of customer reviews to better understand their opinions.
+
+Moreover, I made a __Tableau__ dashboard in order to visualize the results and compare the branches easily. 
 
 ![ER-Diagram](/assets/images/projects/dashboard.png)
 
-I believe that this project can be used by any business in order to better understand their customers and improve their sales.
+I believe that this project can be used by any business in order to refine their understanding of customers and translate into improved sales.
 
 ***
 
