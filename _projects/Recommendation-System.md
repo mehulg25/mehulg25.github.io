@@ -44,7 +44,7 @@ I was able to identify what should be kept in mind before composing a song. It w
 
 After observing these trends, I decided to analyze the growth of genres over the years, as well as how billboard decides on _Artist of the Decade_. Feel free to check out the [full report](/pdf-asset/FinalReport.html) for a more detailed analysis and related visualizations.
 
-For the recommendation system, I started by filtering out the data based on the genre of the input song. Then, I used Cosine Similarity to find a similarity matrix between song attributes. Cosine Similarity is used to find similarity between two non-zero vectors. Here, the two non-zero vectors were the song attributes (input song and target song). The similarity was found by calculating the angle between these two vectors. I also decided to use Hamilton Similarity, which is similar to Cosine Similarity, in order to further refine the recommendation. 
+For the recommendation system, I started by filtering out the data based on the genre of the input song. Then, I used __Cosine Similarity__ to find a similarity matrix between song attributes. Cosine Similarity is used to find similarity between two non-zero vectors. Here, the two non-zero vectors were the song attributes (input song and target song). The similarity was found by calculating the angle between these two vectors. I also decided to use __Hamilton Similarity__, which is similar to Cosine Similarity, in order to further refine the recommendation. 
 
 Honestly, I was pretty impressed by the results. My input song was Enter Sandman by Metallica, the results for which can be seen below: 
 
