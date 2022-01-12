@@ -1,7 +1,8 @@
 ---
 title: "Blog"
 layout: posts
-permalink: /blog
+permalink: /blogs/
 collection: posts
+entries_layout: grid
 paginate: true
 ---
