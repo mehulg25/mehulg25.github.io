@@ -51,7 +51,7 @@ google_fonts:
 
 navigation_pages:
   - about.md
-  - blog.md
+  - posts.md
   - music.md
   - projects.md
   - cv.md
