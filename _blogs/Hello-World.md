@@ -6,7 +6,7 @@ excerpt: "Why a blog?"
 
 image: 
   path: assets/images/blogs/hello-banner.jpg
-  thumbnail: assets/images/projects/hello-thumbnail.jpg
+  thumbnail: assets/images/blogs/hello-thumbnail.jpg
 
 ---
 To cope with all the sleepless nights in pursuit of finishing my gazillion submissions, I rely on caffeine. 
