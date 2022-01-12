@@ -50,7 +50,7 @@ feed:
 
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 4
-paginate_path: blog/page:num/
+paginate_path: /blog/page:num/
 
 # Exclude from processing.
 exclude:
@@ -78,9 +78,6 @@ exclude:
 
 collections:
   projects:
-    output: true
-    permalink: /:collection/:path/
-  posts:
     output: true
     permalink: /:collection/:path/
 
