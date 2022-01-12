@@ -5,7 +5,7 @@ sub_title: "Database Management and Sentiment Analysis"
 excerpt: "Database Management and Sentiment Analysis"
 
 image: 
-  path: assets/images/projects/database-2.jpg
+  path: assets/images/projects/database-banner.jpg
   thumbnail: assets/images/projects/database-thumbnail.jpg
 actions:
   - label: "GitHub"
