@@ -80,7 +80,7 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  posts:
+  blogs:
     output: true
     permalink: /:collection/:path/
 
@@ -88,8 +88,8 @@ collections:
 defaults:
   # _posts
   - scope:
-      path: "_posts"
-      type: posts
+      path: "_blogs"
+      type: blogs
     values:
       layout: post
       read_time: true
