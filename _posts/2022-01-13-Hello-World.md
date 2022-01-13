@@ -2,15 +2,14 @@
 title: "Hello World!"
 categories:
   - general
-sub_title: "Why are you starting a blog?"
-excerpt: "Why are you starting a blog?"
+sub_title: ""Why are you starting a blog?""
+excerpt: ""Why are you starting a blog?""
 
 image: 
   path: assets/images/blogs/hello-banner.jpg
   thumbnail: assets/images/blogs/hello-thumbnail.jpg
 
 ---
-
 ---
 Hi!
 
@@ -33,17 +32,17 @@ I used to work as a full stack developer for a startup but somehow always manage
 
 Wondering what to expect from this website?
 
-As I am living in the states and all my friends are across the globe, It gets pretty tough to find a common time to connect. And if I am connecting with you, I would prefer knowing more about your life. So, to overcome these time differences and keep you all posted on my activities, I am starting this blog. Other than blogs, you can expect to come across some of the [side projects] () I am working on, music I am listening to, etc. 
+As I am living in the states and all my friends are across the globe, It gets pretty tough to find a common time to connect. And if I am connecting with you, I would prefer knowing more about your life. So, to overcome these time differences and keep you all posted on my activities, I am starting this blog. Other than blogs, you can expect to come across some of the [side projects] (/projects) I am working on, [music](/music) I am listening to, etc. 
 
 I don’t really want to fix a schedule to update this website as I don’t want to make it a compulsion. Hence, I will just update this website whenever I feel like. 
 
-I request you all to subscribe to my newsletter using a little pop-up window on the home page in order to receive updates. In case you don’t see any pop-up, contact me, and I’ll manually add you to the mailing list.
+I request you all to subscribe to my newsletter using a little pop-up window on the home page in order to receive updates. In case you don’t see any pop-up, [contact me](mailto:mehulg25@gmail.com), and I’ll manually add you to the mailing list.
 
 Honestly, I am pretty hyped about this and I hope that you are too!
 Do let me know how you feel about it.
 
 Thank you for reading. Until next time. :)
 
-__
+---
 
 This is the first time I’m writing a blog, so spare me for any grammatical errors.
