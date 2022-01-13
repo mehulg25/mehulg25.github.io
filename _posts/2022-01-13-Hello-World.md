@@ -10,6 +10,9 @@ image:
   thumbnail: assets/images/blogs/hello-thumbnail.jpg
 
 ---
+
+"Mehul, why do you even need a blog?"
+
 ---
 Hi!
 
