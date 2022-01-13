@@ -2,8 +2,8 @@
 title: "Hello World!"
 categories:
   - general
-sub_title: ""Why are you starting a blog?""
-excerpt: ""Why are you starting a blog?""
+sub_title: "Why do I need a blog?"
+excerpt: "Why do I need a blog?"
 
 image: 
   path: assets/images/blogs/hello-banner.jpg
