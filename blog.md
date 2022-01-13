@@ -1,7 +1,7 @@
 ---
 title: Blog
 layout: posts
-permalink: /blogs/
+permalink: /blog
 paginate: true
 ---
 

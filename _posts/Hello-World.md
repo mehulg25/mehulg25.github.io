@@ -1,6 +1,8 @@
 ---
 title: "Hello World!"
-layout: post
+categories:
+  - general
+# layout: post
 sub_title: "Why a blog?"
 excerpt: "Why a blog?"
 
