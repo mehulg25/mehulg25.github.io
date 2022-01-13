@@ -14,6 +14,7 @@ image:
 "Mehul, why do you even need a blog?"
 
 ---
+
 Hi!
 
 As some of you might already know that I’ve been off social media for quite some time. Well, the reason why I decided to delete my social media is because I feel that I can’t be my true self. 
@@ -35,7 +36,7 @@ I used to work as a full stack developer for a startup but somehow always manage
 
 Wondering what to expect from this website?
 
-As I am living in the states and all my friends are across the globe, It gets pretty tough to find a common time to connect. And if I am connecting with you, I would prefer knowing more about your life. So, to overcome these time differences and keep you all posted on my activities, I am starting this blog. Other than blogs, you can expect to come across some of the [side projects] (/projects) I am working on, [music](/music) I am listening to, etc. 
+As I am living in the states and all my friends are across the globe, It gets pretty tough to find a common time to connect. And if I am connecting with you, I would prefer knowing more about your life. So, to overcome these time differences and keep you all posted on my activities, I am starting this blog. Other than blogs, you can expect to come across some of the [side projects](/projects) I am working on, [music](/music) I am listening to, etc. 
 
 I don’t really want to fix a schedule to update this website as I don’t want to make it a compulsion. Hence, I will just update this website whenever I feel like. 
 
