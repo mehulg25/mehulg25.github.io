@@ -80,6 +80,10 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  music:
+    output: true
+    permalink: /:collection/:path/
+
 
 # Front Matter Defaults
 defaults:
@@ -94,6 +98,13 @@ defaults:
   - scope:
       path: "_projects"
       type: projects
+    values:
+      layout: post
+      read_time: true
+  # _music
+  - scope:
+      path: "_music"
+      type: music
     values:
       layout: post
       read_time: true
