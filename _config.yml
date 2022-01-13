@@ -89,7 +89,7 @@ defaults:
   # _posts
   - scope:
       path: "_blogs"
-      type: blogs
+      type: posts
     values:
       layout: post
       read_time: true
