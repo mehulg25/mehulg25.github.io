@@ -46,7 +46,10 @@
           "Data Models and Decisions",
           "Managing Digital Business Markets",
           "Digital Transformation in Business",
-          "Project Management"
+          "Project Management",
+          "Business Process Analysis for Information Systems",
+          "Data Mining and Predictive Analysis",
+          "Data Visualization and Web Analytics"
         ]
       },
       {
@@ -60,7 +63,9 @@
           "Machine Learning",
           "Database Management",
           "Web Services",
-          "Java",
+          "Programming in C",
+          "Operating Systems",
+          "Object Oriented Programming using Java",
           "Organization and Management"
         ]
       }
@@ -104,7 +109,6 @@
           "Designed database architecture using MySQL to incorporate data of 40000 users, providing them access to online education",
           "Coordinated with multiple stakeholders and documented requirements to increase platform engagement by 40%",
         ]
-
       },
       {
         "company": "The Indian Music Diaries",
@@ -141,20 +145,22 @@
         "level": "Master",
         "keywords": [
           "Jupyter Notebook", 
+          "R Studio",
+          "Tableau",
           "Google Analytics",
-          "Tableau", 
-          "Anaconda",
-          "MS Office Suite", 
           "MySQL", 
           "SQL Server Management Studio",
-          "Lucid Chart", 
-          "Snowflake", 
-          "Salesforce", 
           "AWS", 
-          "GitHub", 
+          "Salesforce",
+          "Snowflake",
+          "MS Office Suite", 
+          "Lucid Chart", 
+          "Github", 
           "Kaggle", 
           "Postman", 
-          "Jira"
+          "Jira", 
+          "Confluence", 
+          "ProjectLibre"
         ]
       },
       {
@@ -163,6 +169,10 @@
         "keywords": [
           "Python (numpy, pandas, BeautifulSoup, nltk, scikit, seaborn, matplotlib, plotly, TensorFlow)",
           "R",
+          "C",
+          "C++",
+          "PHP",
+          "JavaScript",
           "HTML5",
           "CSS3"
         ]
