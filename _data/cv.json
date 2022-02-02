@@ -67,16 +67,28 @@
     ],
     "work": [
       {
+        "company": "Robert H. Smith School of Business, University of Maryland",
+        "position": "Graduate Teaching Assistant",
+        "website": "https://www.rhsmith.umd.edu",
+        "startDate": "January 2022",
+        "endDate": "Present",
+        "summary": "Graduate Teaching Assistant for the course - Essential Data Skills for Business Analytics using Python (BMGT404)",
+        "highlights": [
+          "Assisted with development and design of the curriculum, supporting research-led and scholarly approach to student learning",
+          "Led discussion sessions and tutored data models, python logistic regression techniques, and higher-level statistical modeling"
+        ]
+      },
+      {
         "company": "Humit",
         "position": "Business Analyst Intern",
         "website": "https://www.humit.app",
         "startDate": "May 2021",
         "endDate": "July 2021",
-        "summary": "humit is a social media platform for bite-sized audio sharing and discovery.",
+        "summary": "Humit is a social media platform for bite-sized audio sharing and discovery.",
         "highlights": [
           "Developed and led implementation of product roadmap while embracing Agile-DevOps",
           "Consulted on automation of day-to-day manual processes to enhance employee turnaround time by 60%",
-          "Analyzed methods to create efficient database schemas through UML diagrams and ERDs on Lucid Chart and reduced SQL query time by 20%",
+          "Analyzed methods to create efficient database schemas through UML diagrams and ERD’s, reduced SQL query time by 20%",
           "Documented requirements, researched growth strategies, identified user pain points, recommended new product features, and analyzed feasibility increasing user satisfaction rate by 80%"
         ]
       },
@@ -91,7 +103,6 @@
           "Developed an online platform using JavaScript (ReactJS), PHP, HTML, and CSS from designed mockups using Agile",
           "Designed database architecture using MySQL to incorporate data of 40000 users, providing them access to online education",
           "Coordinated with multiple stakeholders and documented requirements to increase platform engagement by 40%",
-          "Generated various reports for C-level executives using survey data in Excel"
         ]
 
       },
