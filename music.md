@@ -6,7 +6,6 @@ permalink: /music/
 collection: music
 entries_layout: grid
 ---
-
 ***
 
 I've been invovled with the Indian independent music scene for last 8 years now. During this period, I have had the chance to work with the following music ventures:
