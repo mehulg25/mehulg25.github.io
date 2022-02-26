@@ -1,7 +1,7 @@
 ---
 title: "Blog"
 layout: posts
-sub_title: "Documenting my life."
+sub_title: "Documenting my life, read between the lines."
 permalink: /blog
 paginate: true
 entries_layout: grid
