@@ -15,4 +15,6 @@ Heads Up:
 - I like everything classic rock, prog, djent but can still talk about __John Mayer__ all day.
 - I don't know how to dance but can headbang to __odd time signatures__.
 - If you ever feel like listening to off scale vocals, I can sing for you (Red Flag).
+- __Currently Reading__: _Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones_ by James Clear.
+
 
