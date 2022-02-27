@@ -7,3 +7,4 @@ collection: projects
 entries_layout: grid
 ---
 ***
+<br>
