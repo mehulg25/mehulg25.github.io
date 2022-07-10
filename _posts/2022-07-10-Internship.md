@@ -1,9 +1,9 @@
 ---
-title: “Summer Intern!“
+title: Summer Intern!
 categories:
   - life update
-sub_title: “Dream Internship”
-excerpt: “Dream Internship“
+sub_title: Dream Internship
+excerpt: Dream Internship
 
 image: 
   path: assets/images/blogs/internship-banner.jpg
@@ -13,7 +13,7 @@ image:
 
 Small Milestone!
 
-![intern spotlight](/assets/images/blogs/internship-spotlight.jpg)
+![intern spotlight](/assets/images/blogs/internship-spotlight.jpeg)
 
 ---
 
