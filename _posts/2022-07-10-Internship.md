@@ -19,7 +19,7 @@ Small Milestone!
 
 Hi!
 
-I decided to pursue my masters in Information Systems without knowing much about it. I did not have a clear roadmap of what I want to work as. All I had were 4 options in front of me:
+I decided to pursue my masters in Information Systems without knowing much about it. I did not have a clear roadmap of what I wanted to work as. All I had were 4 options in front of me:
 
 - Data Engineer
 - Data Analyst
@@ -32,7 +32,7 @@ After completing 24 credits and n number of projects and assignments, I started 
 
 The only problem was that I had 0 industry experience in this field and that data science is hard. But what pushed me more to become a data scientist was an article by [HBR](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century) titled - _“Data Scientist: The Sexiest Job of the 21st Century”_. Since then, data science became my dream job.
 
-After giving about 15 interviews and facing __300+ rejections__, I got an offer from [TuneIn](https://tunein.com) to work as a data scientist for recommendation systems and user personalization over the summer of 2022. 
+After giving about 15 interviews and facing __300+ rejections__, I received an offer from [TuneIn](https://tunein.com) to work as a data scientist for recommendation systems and user personalization over the summer of 2022. 
 
 TuneIn is an audio streaming platform located in the San Francisco Bay Area with only 200 employees and 75 million monthly active users being managed by it.
 
