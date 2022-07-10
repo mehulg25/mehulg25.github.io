@@ -1,7 +1,7 @@
 ---
 title: "Hello World!"
 categories:
-  - general
+  - personal
 sub_title: "Why do I need a blog?"
 excerpt: "Why do I need a blog?"
 

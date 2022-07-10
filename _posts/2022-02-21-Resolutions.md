@@ -1,7 +1,7 @@
 ---
 title: "Resolutions"
 categories:
-  - general
+  - personal
 sub_title: "To do or not to do?"
 excerpt: "To do or not to do?"
 
