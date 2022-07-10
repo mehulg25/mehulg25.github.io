@@ -28,7 +28,9 @@ I decided to pursue my masters in Information Systems without knowing much about
 
 At that time, I was convinced that I wanted to become a Business Analyst without even knowing the differences between the options available.
 
-After completing 24 credits and n number of projects and assignments, I started understanding the differences and realized my interest lies in the field of data science. The only problem was that I had 0 industry experience in this field and that data science is hard. But what pushed me more to become a data scientist was an article by [HBR](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century) titled - _“Data Scientist: The Sexiest Job of the 21st Century”_. Since then, data science became my dream job.
+After completing 24 credits and n number of projects and assignments, I started understanding the differences and realized my interest lies in the field of data science. 
+
+The only problem was that I had 0 industry experience in this field and that data science is hard. But what pushed me more to become a data scientist was an article by [HBR](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century) titled - _“Data Scientist: The Sexiest Job of the 21st Century”_. Since then, data science became my dream job.
 
 After giving about 15 interviews and facing __300+ rejections__, I got an offer from [TuneIn](https://tunein.com) to work as a data scientist for recommendation systems and user personalization over the summer of 2022. 
 
