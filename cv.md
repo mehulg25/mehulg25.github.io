@@ -4,5 +4,5 @@ layout: cv
 actions:
   - label: "Download as PDF"
     icon: pdf
-    url: "/pdf-asset/MehulGupta_Resume.pdf"
+    url: "/pdf-asset/Mehul_Gupta_Resume.pdf"
 ---
