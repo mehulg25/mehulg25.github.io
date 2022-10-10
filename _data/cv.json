@@ -1,12 +1,12 @@
 {
     "basics": {
       "name": "Mehul Gupta",
-      "label": "In Data I Trust.",
+      "label": "The Guy Behind Your Feed | Data Science Intern at TuneIn | Graduate Student at Robert H. Smith School of Business, University of Maryland | Startup Shell Founder’s Track | Recommendations & User Personalization | NLP",
       "picture": "",
       "email": "mehulg25@gmail.com",
       "phone": "(240) 491-1595",
       "website": "https://mehtalkculous.com",
-      "summary": "As a person who understands both the technology and the business, I can help your team leverage the power of data by creating insightful stories that help drive business decisions. ",
+      "summary": "As an individual who understands both - technology & business, I can help your team leverage the power of data by creating insightful stories that help drive business decisions.",
       "location": {
         "address": "3417 Tulane Drive",
         "postalCode": "MD 20783",
@@ -35,25 +35,29 @@
     "education": [
       {
         "institution": "Robert H. Smith School of Business, University of Maryland",
+        "website": "https://www.rhsmith.umd.edu",
         "area": "Information Systems",
         "studyType": "Master of Science",
         "startDate": "September 2021",
         "endDate": "December 2022",
-        "gpa": "3.7",
+        "gpa": "3.",
         "courses": [
-          "Data Processing and Analysis using Python",
+          "Big Data and Artificial Intelligence for Business",
           "Database Management Systems",
           "Data Models and Decisions",
-          "Managing Digital Business Markets",
-          "Digital Transformation in Business",
+          "Data Analysis in Python",
+          "Data Mining and Predictive Analytics",
+          "Data Visualization and Web Analytics",
+          "Applied Finance Information Systems",
           "Project Management",
           "Business Process Analysis for Information Systems",
-          "Data Mining and Predictive Analysis",
-          "Data Visualization and Web Analytics"
+          "Digital Transformation in Business",
+          "Managing Digital Business Markets"
         ]
       },
       {
         "institution": "Manipal University Jaipur",
+        "website": "https://www.jaipur.manipal.edu",
         "area": "Computers and Communications",
         "studyType": "Bachelors in Technology",
         "startDate": "July 2017",
@@ -61,8 +65,11 @@
         "gpa": "3.2",
         "courses": [
           "Machine Learning",
-          "Database Management",
-          "Web Services",
+          "Relational Database and Management Systems",
+          "Principles of Web Services",
+          "Web Technologies",
+          "Principles of Software Engineering",
+          "Advanced Data Structures",
           "Programming in C",
           "Operating Systems",
           "Object Oriented Programming using Java",
@@ -72,11 +79,50 @@
     ],
     "work": [
       {
+        "company": "TuneIn",
+        "position": "Data Science Intern",
+        "website": "https://www.rhsmith.umd.edu",
+        "startDate": "June 2022",
+        "endDate": "Present",
+        "summary": "TuneIn empowers people to hear exactly what they love the moment they want it, and discover a universe of audio, all in one place",
+        "highlights": [
+          "Built text classifiers using nltk, sentence transformers, and BERT to cluster similar podcasts and extract key topics from transcripts, enhancing discovery of podcasts based on trending topics, reducing drop off in user funnel and improving personalization by 5%",
+          "Implemented ML models for strategic placement of mid-roll audio advertisements, increasing revenue from ads by 20%",
+          "Collaborated with user research team to generate ad-hoc SQL reports of customer review data, reducing customer churn by 7%"
+        ]
+      },
+      {
+        "company": "Startup Shell",
+        "position": "Founder's Track",
+        "website": "https://startupshell.org",
+        "startDate": "March 2022",
+        "endDate": "Present",
+        "summary": "Founded a startup which focuses on the development of a ticketing platform in the Web3 space",
+        "highlights": [
+          "Participated in all aspects of business development from market research and finance to operations and marketing, ensuring that the company's vision was followed",
+          "Formulated company's vision, goals, and objectives; hired and trained new employees",
+          "Built and maintained professional relationships with potential investors and partners; attended various startup and business events",
+          "Onboarded India's most talented musicians, allowing them increase their visibility, growth, and royalties"
+        ]
+      },
+      {
+        "company": "University of Maryland",
+        "position": "Business Strategy Consultant",
+        "website": "https://www.rhsmith.umd.edu/centers-initiatives/global-business/programs-initiatives/alumni-industry-professionals/maryland-global-consulting-program",
+        "startDate": "May 2022",
+        "endDate": "August 2022",
+        "summary": "Consulting Fellowship",
+        "highlights": [
+          "Performed secondary market research and industry analysis for cybersecurity SaaS as a B2C offering in North America",
+          "Identified market gap, recommended minimal product offering using competitive benchmarking and devised go-to-market strategy"
+        ]
+      },
+      {
         "company": "Robert H. Smith School of Business, University of Maryland",
         "position": "Graduate Teaching Assistant",
         "website": "https://www.rhsmith.umd.edu",
         "startDate": "January 2022",
-        "endDate": "Present",
+        "endDate": "May 2022",
         "summary": "Graduate Teaching Assistant for the course - Essential Data Skills for Business Analytics using Python (BMGT404)",
         "highlights": [
           "Assisted with development and design of the curriculum, supporting research-led and scholarly approach to student learning",
@@ -85,11 +131,11 @@
       },
       {
         "company": "Humit",
-        "position": "Business Analyst Intern",
+        "position": "Business Analyst",
         "website": "https://www.humit.app",
         "startDate": "May 2021",
         "endDate": "July 2021",
-        "summary": "Humit is a social media platform for bite-sized audio sharing and discovery.",
+        "summary": "Humit is a social media platform for bite-sized audio sharing and discovery",
         "highlights": [
           "Developed and led implementation of product roadmap while embracing Agile-DevOps",
           "Consulted on automation of day-to-day manual processes to enhance employee turnaround time by 60%",
@@ -99,15 +145,15 @@
       },
       {
         "company": "ColoredCow Consulting Pvt. Ltd.",
-        "position": "Full Stack Development Intern",
+        "position": "Software Engineer",
         "website": "https://coloredcow.com",
         "startDate": "January 2021",
         "endDate": "April 2021",
-        "summary": "ColoredCow is a business consultancy firm.",
+        "summary": "ColoredCow is a business consultancy firm",
         "highlights": [
-          "Developed an online platform using JavaScript (ReactJS), PHP, HTML, and CSS from designed mockups using Agile",
-          "Designed database architecture using MySQL to incorporate data of 40000 users, providing them access to online education",
-          "Coordinated with multiple stakeholders and documented requirements to increase platform engagement by 40%",
+          "Developed web platforms through agile SDLC methods, delivered projects to clients in 50% of the estimated time",
+          "Designed database architecture using MySQL to incorporate data of 40,000 users, providing them access to online education",
+          "Coordinated with multiple stakeholders and designed go-to-market strategy to increase customer acquisition by 40%"
         ]
       },
       {
@@ -116,13 +162,14 @@
         "website": "https://theindianmusicdiaries.com",
         "startDate": "July 2020",
         "endDate": "June 2021",
-        "summary": "Music Editorial",
+        "summary": "India's first independent music editorial",
         "highlights": [
           "Introduced and launched a Discord Server for TIMD, hosted several series, music sessions on the same and ensured engagement of 1000+ members within a month",
           "Spearheaded Rig Rundown, India's first ever live music podcast of its kind",
           "Organized India's first Independent Music Awards",
           "Maintained liaisons with artists in the Indian Music Industry",
-          "Organised workshops on topics revolving around music production, music release, building press-kits, etc."
+          "Organised workshops on topics revolving around music production, music release, building press-kits, etc.",
+          "Curated artists and genre specific playlists under TIMD"
         ]
       },
       {
@@ -131,7 +178,7 @@
         "website": "https://www.sofarsounds.com",
         "startDate": "January 2020",
         "endDate": "June 2020",
-        "summary": "Event Management",
+        "summary": "Sofar Sounds, is a music events startup company, responsible for various small performances, hosted in over 400 cities",
         "highlights": [
           "Identified and managed talent for Sofar Sounds",
           "Assisted in curation of various events in Jaipur as a part of their global movement ",
