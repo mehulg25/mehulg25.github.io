@@ -1,7 +1,7 @@
 {
     "basics": {
       "name": "Mehul Gupta",
-      "label": "The Guy Behind Your Feed | Data Science Intern at TuneIn | Graduate Student at Robert H. Smith School of Business, University of Maryland | Startup Shell Founder’s Track | Recommendations & User Personalization | NLP",
+      "label": "The Guy Behind Your Feed",
       "picture": "",
       "email": "mehulg25@gmail.com",
       "phone": "(240) 491-1595",
@@ -35,12 +35,11 @@
     "education": [
       {
         "institution": "Robert H. Smith School of Business, University of Maryland",
-        "website": "https://www.rhsmith.umd.edu",
         "area": "Information Systems",
         "studyType": "Master of Science",
         "startDate": "September 2021",
         "endDate": "December 2022",
-        "gpa": "3.",
+        "gpa": "3.8",
         "courses": [
           "Big Data and Artificial Intelligence for Business",
           "Database Management Systems",
@@ -57,7 +56,6 @@
       },
       {
         "institution": "Manipal University Jaipur",
-        "website": "https://www.jaipur.manipal.edu",
         "area": "Computers and Communications",
         "studyType": "Bachelors in Technology",
         "startDate": "July 2017",
