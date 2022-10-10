@@ -136,7 +136,7 @@
         "summary": "Humit is a social media platform for bite-sized audio sharing and discovery",
         "highlights": [
           "Developed and led implementation of product roadmap while embracing Agile-DevOps",
-          "Consulted on automation of day-to-day manual processes to enhance employee turnaround time by 60%",
+          "Automated day-to-day processes using bots and web crawlers, enhancing employee productivity by 30%",
           "Analyzed methods to create efficient database schemas through UML diagrams and ERD’s, reduced SQL query time by 20%",
           "Documented requirements, researched growth strategies, identified user pain points, recommended new product features, and analyzed feasibility increasing user satisfaction rate by 80%"
         ]
@@ -191,18 +191,19 @@
         "level": "Master",
         "keywords": [
           "Jupyter Notebook", 
-          "R Studio",
-          "Tableau",
-          "Google Analytics",
+          "R Studio", 
+          "Databricks", 
+          "Tableau", 
+          "Google Analytics", 
           "MySQL", 
-          "SQL Server Management Studio",
-          "AWS", 
-          "Salesforce",
-          "Snowflake",
+          "SQL Server Management Studio", 
+          "AWS (S3, EMR, Redshift)", 
+          "PySpark", 
+          "Hadoop", 
+          "Docker", 
           "MS Office Suite", 
           "Lucid Chart", 
           "Github", 
-          "Kaggle", 
           "Postman", 
           "Jira", 
           "Confluence", 
@@ -213,14 +214,34 @@
         "name": "Programming Languages",
         "level": "Master",
         "keywords": [
-          "Python (numpy, pandas, BeautifulSoup, nltk, scikit, seaborn, matplotlib, plotly, TensorFlow)",
-          "R",
+          "Python (numpy, pandas, BeautifulSoup, nltk, scikit, keras, TensorFlow, BERTopic, ahocorasick, umap, SentenceTransformer, seaborn, matplotlib, plotly, huggingface)",
+          "R (dplyr, ggplot, ggplot2)",
+          "Pig",
+          "Hive",
           "C",
           "C++",
           "PHP",
           "JavaScript",
           "HTML5",
           "CSS3"
+        ]
+      },
+      {
+        "name": "Statistical/ML Techniques",
+        "level": "Master",
+        "keywords": [
+          "Hypothesis Testing", 
+          "Confidence Interval", 
+          "Linear Regression", 
+          "Logistic Regression", 
+          "Decision Trees", 
+          "Random Forest", 
+          "Naïve Bayes Model", 
+          "KNN", 
+          "K-Means", 
+          "Word2Vec", 
+          "Transformers", 
+          "Bagging and Boosting"
         ]
       }
     ],
@@ -232,6 +253,10 @@
       {
         "name": "Prithvi Sankar (Founder - Humit)",
         "reference": "I had the pleasure of working with Mehul during his stint at humit. The fact that he always enjoyed what he did made his work of the highest quality, as he paid attention to all the details in every aspect. He approached every task with great enthusiasm and effort. Mehul knows his way around people, is good with partners, does whatever it takes to help colleagues, and gets things done. Hoping to cross paths again in the future!"
+      },
+      {
+        "name": "Shivakumar Vastrad (Batchmate - University of Maryland)",
+        "reference": "I have known Mehul for a little over a year now. I had the pleasure of working with him in various projects and datathons', during our time together at R. H Smith School of Business, University of Maryland, College Park. Mehul is very thorough and meticulous, and the results translate into his work. He is passionate about the tasks that he takes up and is always willing to help his peers. Mehul is committed to consistent learning and sharing his knowledge. He is an asset to any team he works for."
       }
     ]
   }
