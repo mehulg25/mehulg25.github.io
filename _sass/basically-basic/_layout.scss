@@ -57,7 +57,7 @@ main {
 }
 
 .inner {
-  max-width: $large; 
+  max-width: 100%; // $large -> 100% Change (Sounav)
   margin-left: auto; //content alignment
   margin-right: auto; //content alignment
 }

@@ -131,7 +131,7 @@
 
    .entries-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr)); // 300px -> 400px Change (Sounav)
     grid-gap: 2em;
 
     .entry {
