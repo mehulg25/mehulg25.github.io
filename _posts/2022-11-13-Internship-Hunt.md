@@ -37,9 +37,9 @@ My first semester was exhausting as I was not only taking 13 credits, but gettin
 
 A lot of people even told me that you should start applying even before coming to the states but I beg to differ. I think people should just enjoy the time with their friends and family and worry about getting an internship once they come to the US. 
 
-For me, the first task was to think about the things that interest me the most other than analytics (duh..)
+For me, the first task was to think about the things that interest me the most other than analytics (duh).
 
-In my case, it was music (which is pretty evident from the chart)
+In my case, it was music (which is pretty evident from the chart) -
 
 ![background-chart](/assets/images/blogs/overlap.jpg)
 
@@ -77,7 +77,7 @@ I sent it back to my friends to review and kept on doing iterations to my resume
 Finally, it was time for the world to know that I was "_#opentowork_".
 My main resource for networking and looking for positions was __LinkedIn__. I believe that LinkedIn is genuinely the best tool out there. 
 
-I started off my adding connections -
+I started off by adding connections -
 
 1. Alumni
 2. People working for companies I want to apply for
@@ -99,14 +99,13 @@ As the end of spring semester was approaching, I was running out of time. I deci
 #### Challenges
 
 1. Juggling between assignments, project work, courses, cooking, cleaning, grocery shopping, and the list goes on and on
-2. Making “the perfect” resume (Doesn’t Exist)
+2. Making “_the perfect_” resume (Doesn’t Exist!)
 3. Reaching out to people who might actually help
 4. People constantly telling you that your profile is not good enough
 
 #### Thoughts
 
-I applied to almost 300 opportunities, got 10 interviews, and received 1 offer. You can do the math.
-But this is how the chart looks like now -
+I applied to almost 300 opportunities, got 10 interviews, and received 1 offer. You can do the math. But this is how the chart looks like now -
 
 ![intern meme](/assets/images/blogs/closed.jpg)
 
@@ -114,7 +113,7 @@ I believe that getting an interview is not just about knowing things or how your
 
 My advice would be to just keep on applying. If you get an offer, good. If not, it's not the end of the world. 
 
-Spend time working on your profile, figuring out what went wrong in the process, and reflect on it.
+Spend time working on your profile, figure out what went wrong in the process, and reflect on it.
 
 Don't let this clock affect your mental health. Everything eventually falls into place.
 
@@ -122,4 +121,4 @@ Thank you for reading. Until next time. :)
 
 ---
 
-Feel free to hit me up if you help with your resume.
+Feel free to hit me up if you need help with your resume.
