@@ -1,17 +1,15 @@
 ---
-title: “Internship Hunt“
+title: Internship Hunt
 categories:
   - resource
-sub_title: “Handbook“
-excerpt: “Handbook”
+sub_title: Handbook
+excerpt: Handbook
 
 image: 
   path: assets/images/blogs/interview-banner.jpg
   thumbnail: assets/images/blogs/interview-thumbnail.jpg
 
 ---
-
-Handbook
 
 ![intern-meme](/assets/images/blogs/intern.jpg)
 
@@ -99,8 +97,6 @@ As the end of spring semester was approaching, I was running out of time. I deci
 
 #### Challenges
 
-There were a lot of challenges I faced -
-
 1. Juggling between assignments, project work, courses, cooking, cleaning, grocery shopping, and the list goes on and on
 2. Making “the perfect” resume (Doesn’t Exist)
 3. Reaching out to people who might actually help
@@ -108,7 +104,7 @@ There were a lot of challenges I faced -
 
 #### Thoughts
 
-I applied for almost 300 opportunities, got 10 interviews, and received 1 offer. You can do the math.
+I applied to almost 300 opportunities, got 10 interviews, and received 1 offer. You can do the math.
 But this is how the chart looks like now -
 
 ![intern meme](/assets/images/blogs/closed.jpg)
@@ -120,8 +116,6 @@ My advice would be to just keep on applying. If you get an offer, good. If not, 
 Spend time working on your profile, figuring out what went wrong in the process, and reflect on it.
 
 Don't let this clock affect your mental health. Everything eventually falls into place.
-
-![intern meme](/assets/images/blogs/internship-meme.jpg)
 
 Thank you for reading. Until next time. :)
 
