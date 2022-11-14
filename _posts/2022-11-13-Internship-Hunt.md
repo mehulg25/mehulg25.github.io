@@ -38,6 +38,7 @@ My first semester was exhausting as I was not only taking 13 credits, but gettin
 A lot of people even told me that you should start applying even before coming to the states but I beg to differ. I think people should just enjoy the time with their friends and family and worry about getting an internship once they come to the US. 
 
 For me, the first task was to think about the things that interest me the most other than analytics (duh..)
+
 In my case, it was music (which is pretty evident from the chart)
 
 ![background-chart](/assets/images/blogs/overlap.jpg)
