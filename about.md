@@ -4,11 +4,11 @@ layout: about
 permaline: /about
 ---
 
-Hi! I'm Mehul, a Master's student at [Robert H. Smith School of Business, University of Maryland](https://www.rhsmith.umd.edu). I have a deep interest in data science and I aim to bridge the gap between technology and business. 
+Hi! I'm Mehul, a data scientist at [TuneIn](https://tunein.com) and a proud [Terp](https://umd.edu). 
 
 ***
 
-My passion lies in creating value at the intersection of technology, business, and music. I have experience working with music platforms like [TuneIn](https://tunein.com), [Swaraj Labs](https://www.swaraj.art), [Humit](https://www.humit.app), [Sofar Sounds](https://www.sofarsounds.com), and [The Indian Music Diaries](https://theindianmusicdiaries.com). I had the pleasure of collaborating with my favorite artists like Steven Wilson, The Local Train, Aswekeepsearching, Tanmaya Bhatgnagar, Parvaaz, Shashank Bhatnagar, Zygnema, and Warren Mendonsa to name a few. 
+My passion lies in creating value at the intersection of technology, business, and music. I have experience working with music platforms like [TuneIn](https://tunein.com), [Sofar Sounds](https://www.sofarsounds.com), [Swaraj Labs](https://www.swaraj.art), [Humit](https://www.humit.app), and [The Indian Music Diaries](https://theindianmusicdiaries.com). I had the pleasure of collaborating with my favorite artists like Steven Wilson, The Local Train, Aswekeepsearching, Tanmaya Bhatgnagar, Parvaaz, Shashank Bhatnagar, Zygnema, and Warren Mendonsa to name a few. 
 
 Heads Up:
 - I love discussing [__disruptive innovations__](https://hbr.org/2015/12/what-is-disruptive-innovation).
