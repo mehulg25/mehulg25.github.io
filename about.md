@@ -3,6 +3,7 @@ title: "About"
 layout: about
 permaline: /about
 ---
+***
 
 Hi! I'm Mehul, a data scientist at [TuneIn](https://tunein.com) and a proud [Terp](https://umd.edu).
 
