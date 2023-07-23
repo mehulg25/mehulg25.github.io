@@ -17,13 +17,13 @@ remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 lang: en-US
 title: Mehul Gupta
 email: mehulg25@gmail.com
-description: Hello World!
+description: Documenting my life; read between the lines.
 baseurl:  # the optional subpath of your site, e.g. "/blog"
 url: https://mehulg25.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: Mehul Gupta
   twitter: mehulg25
-  picture: /assets/images/Vcasual_bg.png
+  picture: /assets/images/about_image.png
 twitter_username: mehulg25
 github_username: mehulg25
 # discord_server: 

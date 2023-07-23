@@ -8,22 +8,17 @@
       "website": "https://mehtalkculous.com",
       "summary": "As an individual who understands both - technology & business, I can help your team leverage the power of data by creating insightful stories that help drive business decisions.",
       "location": {
-        "address": "3417 Tulane Drive",
-        "postalCode": "MD 20783",
-        "city": "Hyattsville",
+        "address": "350 River Oaks Pkwy",
+        "postalCode": "CA 95134",
+        "city": "San Jose",
         "countryCode": "US",
-        "region": "Maryland"
+        "region": "California"
       },
       "profiles": [
         {
           "network": "LinkedIn",
           "username": "mehulg25",
           "url": "https://www.linkedin.com/in/mehulg25/"
-        },
-        {
-          "network": "Twitter",
-          "username": "mehulg25",
-          "url": "https://twitter.com/mehulg25"
         },
         {
             "network": "Github",
@@ -78,38 +73,39 @@
     "work": [
       {
         "company": "TuneIn",
-        "position": "Data Science Intern",
-        "website": "https://www.rhsmith.umd.edu",
+        "position": "Associate Data Scientist",
+        "website": "https://tunein.com",
         "startDate": "June 2022",
         "endDate": "Present",
         "summary": "TuneIn empowers people to hear exactly what they love the moment they want it, and discover a universe of audio, all in one place",
         "highlights": [
-          "Built text classifiers using nltk, sentence transformers, and BERT to cluster similar podcasts and extract key topics from transcripts, enhancing discovery of podcasts based on trending topics, reducing drop off in user funnel and improving personalization by 5%",
-          "Implemented ML models for strategic placement of mid-roll audio advertisements, increasing revenue from ads by 20%",
+          "Built text classifiers using sklearn, sentence transformers, and BERT to cluster similar podcasts and performed topic modeling, enhancing discovery of podcasts based on trending topics, reducing drop off in user funnel and improving personalization by 5%",
+          "Implemented machine learning models for strategic placements of mid-roll audio advertisements, increasing ad revenue by 20%",
+          "Orchestrated ETL pipelines to fetch data from AWS Redshift, transformed unstructured data in Databricks, and created interactive dashboards using MODE, reducing processing time by 92%",
           "Collaborated with user research team to generate ad-hoc SQL reports of customer review data, reducing customer churn by 7%"
         ]
       },
       {
-        "company": "Startup Shell",
+        "company": "Startup Shell - Ticketified",
         "position": "Founder's Track",
         "website": "https://startupshell.org",
         "startDate": "March 2022",
-        "endDate": "Present",
-        "summary": "Founded a startup which focuses on the development of a ticketing platform in the Web3 space",
+        "endDate": "December 2022",
+        "summary": "Co-founded a startup in the Web3 space",
         "highlights": [
-          "Participated in all aspects of business development from market research and finance to operations and marketing, ensuring that the company's vision was followed",
           "Formulated company's vision, goals, and objectives; hired and trained new employees",
+          "Participated in all aspects of business development from market research and finance to operations and marketing, ensuring that the company's vision was followed",
           "Built and maintained professional relationships with potential investors and partners; attended various startup and business events",
           "Onboarded India's most talented musicians, allowing them increase their visibility, growth, and royalties"
         ]
       },
       {
-        "company": "University of Maryland",
+        "company": "IBSS",
         "position": "Business Strategy Consultant",
-        "website": "https://www.rhsmith.umd.edu/centers-initiatives/global-business/programs-initiatives/alumni-industry-professionals/maryland-global-consulting-program",
+        "website": "https://www.ibsscorp.com",
         "startDate": "May 2022",
         "endDate": "August 2022",
-        "summary": "Consulting Fellowship",
+        "summary": "Global Consulting Fellowship",
         "highlights": [
           "Performed secondary market research and industry analysis for cybersecurity SaaS as a B2C offering in North America",
           "Identified market gap, recommended minimal product offering using competitive benchmarking and devised go-to-market strategy"
@@ -194,19 +190,23 @@
           "R Studio", 
           "Databricks", 
           "Tableau", 
-          "Google Analytics", 
+          "Google Analytics",
+          "Mode Analytics",
+          "Snowflake",
           "MySQL", 
           "SQL Server Management Studio", 
-          "AWS (S3, EMR, Redshift)", 
+          "AWS (S3, Redshift, Cloudera)", 
           "PySpark", 
           "Hadoop", 
           "Docker", 
+          "OpenAI",
           "MS Office Suite", 
           "Lucid Chart", 
           "Github", 
           "Postman", 
           "Jira", 
-          "Confluence", 
+          "Confluence",
+          "Notion", 
           "ProjectLibre"
         ]
       },
@@ -214,13 +214,10 @@
         "name": "Programming Languages",
         "level": "Master",
         "keywords": [
-          "Python (numpy, pandas, BeautifulSoup, nltk, scikit, keras, TensorFlow, BERTopic, ahocorasick, umap, SentenceTransformer, seaborn, matplotlib, plotly, huggingface)",
+          "Python (numpy, pandas, BeautifulSoup, nltk, scikit, keras, TensorFlow, BERT, umap, SentenceTransformers, Gensim, SpaCy, seaborn, matplotlib, plotly)",
           "R (dplyr, ggplot, ggplot2)",
           "Pig",
           "Hive",
-          "C",
-          "C++",
-          "PHP",
           "JavaScript",
           "HTML5",
           "CSS3"
@@ -239,6 +236,8 @@
           "Naïve Bayes Model", 
           "KNN", 
           "K-Means", 
+          "CNN",
+          "RNN",
           "Word2Vec", 
           "Transformers", 
           "Bagging and Boosting"
