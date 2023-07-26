@@ -49,7 +49,7 @@ The first few weeks were definitely overwhelming as I was working on multiple pr
 I believe that this was a huge step in my life and definitely something I would consider a milestone.
 
 I also went to a casino for the first time which is an experience I can never forget because :money: :money: :money: 
-(Shouldn’t this be money emoticon??? )
+(That's the money emoticon)
 
 ![february-casino](/assets/images/blogs/2023-07-25-Year-So-Far/february-casino.JPG) 
 
@@ -82,7 +82,7 @@ Also, I met a really cute dog - Luna.
 
 #### May
 
-I traveled back to Maryland for my convocation. Yes, your boy was finally getting a really expensive piece of paper ( I don’t think I can ever justify this to my parents).
+I traveled back to Maryland for my convocation. Yes, your boy was finally getting a really expensive piece of paper (I don’t think I can ever justify this to my parents).
 
 And did you know how uncomfortable a regalia is? I am never wearing that shit again.
 
@@ -99,7 +99,7 @@ One of my friends from Maryland came to visit me in California, and we traveled 
 
 I also tried Kayaking in Lake Tahoe which is pretty crazy for me as I don’t know how to swim (YOLO?)
 
-![june-tahoe](/assets/images/blogs/2023-07-25-Year-So-Far/june-tahoe.JPG) 
+![june-tahoe](/assets/images/blogs/2023-07-25-Year-So-Far/june-tahoe.jpg) 
 
 #### July
 
@@ -110,7 +110,7 @@ I do have a couple of immediate things in mind for Mehtalkculous and also some l
 - Music
 - Podcasts
 
-I am going to start streaming from next month, and it would be fun if you all subscribe to my [Twitch ](https://www.twitch.tv/mehulg25). I will be running a couple of test streams to figure out the logistics as I am pretty new to the platform, but feel free to drop by, chat, and maybe even help me figure out how it works.
+I am going to start streaming from next month, and it would be fun if you all subscribe to my [Twitch](https://www.twitch.tv/mehulg25). I will be running a couple of test streams to figure out the logistics as I am pretty new to the platform, but feel free to drop by, chat, and maybe even help me figure out how it works.
 
 ![doggo-luna](/assets/images/blogs/2023-07-25-Year-So-Far/doggo.JPG) 
 
