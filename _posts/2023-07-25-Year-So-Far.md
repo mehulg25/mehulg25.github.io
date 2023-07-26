@@ -120,3 +120,7 @@ Thank you for reading. Until next time. :)
 ---
 
 This might justify why I didn’t post a blog in a long time, but I can’t justify why I couldn’t stay in touch with many of you. However, I promise to personally reach out to you really soon and will try to be more active here. Thank you for sticking by.
+
+<head>
+  <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/c81e111b70d9790c291311e12/787ae280c5cc29d83534a5270.js");</script>
+</head>
